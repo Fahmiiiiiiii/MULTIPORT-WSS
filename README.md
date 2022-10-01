@@ -15,7 +15,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://i
 ## INSTALLATION SCRIPT
 
   ```html
-  apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SandakanVPNTrickster/MULTIPORT-WSS/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+  apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/Fahmiiiiiiii/MULTIPORT-WSS/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 
   ```
 ## Features
